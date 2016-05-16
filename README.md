@@ -20,6 +20,4 @@ Only modify the index.tpl.html as it triggers the live reload for html changes.
 
 As for the style please use whatever folder structure you need. If you add more files just make a reference to them in the index.js file.
 
-Example:
-
-```require("!style!css!sass!./style/sample.scss");```
+Example: `require("!style!css!sass!./style/sample.scss");`
